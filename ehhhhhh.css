@@ -1,0 +1,43 @@
+body
+{
+	color: rgb(12, 31, 242)
+ }
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(250, 1, 1);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+#lol{
+	color: rgb(144, 0, 192);
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#what
+{
+background: rgb(74, 65, 65);
+border-radius: 10px;
+border-top: 10px solid #08e6f6;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#ma
+{
+ color: rgb(209, 93, 93);
+}
